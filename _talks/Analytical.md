@@ -1,5 +1,5 @@
 ---
-title: "Analytical Beam Training Framework for THz Systems"
+title: "Analytical Beam Training Framework for Wideband THz Systems"
 collection: talks
 type: "Talk"
 permalink: /research/analytical
