@@ -10,7 +10,7 @@ location: "San Francisco, California"
 
 <font size = 4><b>Analyze the specific pattern of the wideband effect in RIS-assisted wideband THz systems. Design a beam training framework by exploiting this effect rather than overcoming it.</b></font>
 
-##
+<p></p>
 
 Terahertz (THz) communications have been considered as one of the promising technologies for future 6G wireless systems. In order to cope with the high path loss in THz systems, reconfigurable intelligent surface (RIS) composed of low-complexity reflecting elements has been proposed to improve the spectrum and energy efficiency by generating directional beams. In order to acquire the direction of user equipment (UE) to send directional beams, the acquisition of accurate channel state information (CSI) is very important. Beam training is widely utilized to acquire the CSI. 
 
