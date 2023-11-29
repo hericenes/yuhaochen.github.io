@@ -1,8 +1,8 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Analytical Beam Training Framework for THz Systems"
 collection: talks
 type: "Talk"
-permalink: /research/2012-03-01-talk-1
+permalink: /research/analytical
 venue: "UC San Francisco, Department of Testing"
 date: 2015-04-01
 location: "San Francisco, California"
