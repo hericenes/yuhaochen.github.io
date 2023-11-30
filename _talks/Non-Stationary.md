@@ -8,7 +8,7 @@ date: 2016-03-01
 location: "Los Angeles, CA"
 ---
 
-<font size = 4><b>Propose a group time block code based signal extraction scheme. Convert the spatial non-stationary channel into a series of stationary channels to realize accurate channel estimation.</b></font>
+<font size = 4><b>Propose a group time block code (GTBC) based signal extraction scheme. Convert the spatial non-stationary channel into a series of stationary channels to realize accurate channel estimation.</b></font>
 
 <p></p>
 
