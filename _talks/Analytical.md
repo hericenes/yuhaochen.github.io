@@ -1,5 +1,5 @@
 ---
-title: "Analytical Beam Training Framework for RIS-Assisted Wideband THz Systems"
+title: "Analytical Beam Training Framework for RIS-Assisted Wideband THz Systems [Show More]"
 collection: talks
 type: "Talk"
 permalink: /research/analytical

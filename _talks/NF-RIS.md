@@ -1,5 +1,5 @@
 ---
-title: "Accurate & Effective Channel Estimation for Extremely Large-Scale RIS"
+title: "Accurate & Effective Channel Estimation for Extremely Large-Scale RIS [Show More]"
 collection: talks
 type: "Talk"
 permalink: /research/Accurate

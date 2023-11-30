@@ -1,5 +1,5 @@
 ---
-title: "Fast Beam Training for Wideband ELAA Systems with Uniform Circular Array"
+title: "Fast Beam Training for Wideband ELAA Systems with Uniform Circular Array [Show More]"
 collection: talks
 type: "Talk"
 permalink: /research/UCA
