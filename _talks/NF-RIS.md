@@ -8,7 +8,7 @@ date: 2017-02-01
 location: "London, UK"
 ---
 
-<font size = 4><b>Extend the GTBC to the RIS scenario to deal with the spatial non-stationarity. Design a dynamic codebook to represent the cascaded near-field channel in XL-RIS systems effectively.</b></font>
+<font size = 4><b>Extend the GTBC to the RIS scenario to deal with the spatial non-stationarity. Design a dynamic codebook to represent the cascaded near-field channel in RIS systems effectively.</b></font>
 
 <p></p>
 
