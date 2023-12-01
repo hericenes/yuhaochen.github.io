@@ -22,6 +22,8 @@ We break the traditional paradigm which divide the communication system into sev
 
 The end-to-end system demonstrates several interesting results, including the unconventional constellation diagrams. The constellation diagrams vary with different training targets (e.g., minimum BER, mininum SER, etc.). This phenomenon reveals the potential of enhancing the performance of communication systems with AI.
 
+![constellation](../images/constellation.png)
+
 ## Algorithm verification
 
 We also utilize this prototype to verify the performance of the proposed [analytical beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/analytical) and the proposed [FDF-based beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/UCA).
