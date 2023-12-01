@@ -14,7 +14,7 @@ main:
     url: /awards/
         
   - title: "Personal"
-    url: /year-archive/
+    url: /personal/
     
   - title: "CV"
     url: /files/CV_Yuhao Chen.pdf
