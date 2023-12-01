@@ -31,7 +31,7 @@ author_profile: true
 
 1. **Y. Chen**, J. Tan, and L. Dai, “Analytical beam training for RIS-assisted wideband terahertz communication,” in *Proc. 2023 IEEE Global Commun. Conf.* (<b><i>IEEE GLOBECOM’23</i></b>), Kuala Lumpur, Malaysia, Dec. 2023. [(Paper)](../files/m16585-chen%20final.pdf)
 
-2. **Y. Chen**, Z. Zhang, M. Cui, and L. Dai, “Channel estimation for non-stationary extremely large-scale MIMO,” in *Proc. IEEE 95th Veh. Technol. Conf.* (<b><i>IEEE VTC’23 Spring</b></i>), Florence, Italy, Jun. 2023. [(Paper)](../files/VTC_c.pdf)
+2. **Y. Chen**, Z. Zhang, M. Cui, and L. Dai, “Channel estimation for non-stationary extremely large-scale MIMO,” in *Proc. IEEE 95th Veh. Technol. Conf.* (<b><i>IEEE VTC’23 Spring</i></b>), Florence, Italy, Jun. 2023. [(Paper)](../files/VTC_c.pdf)
 
 3. M. Cui, Z. Wu, **Y. Chen**, S. Xu, F. Yang, and L. Dai, “Demo: Low-power communications based on RIS and AI for 6G,” in *Proc. IEEE Int. Conf. Commun.* (<b><i>IEEE ICC’22, Demo Session</i></b>), Gangnam-gu, Seoul, South Korea, May 2022. (<font color=red><b>IEEE ICC 2022 Outstanding Demo Award</b></font>) [(Paper)](../files/Demo%20Low-power%20communications%20based%20on%20RIS%20and%20AI%20for%206G.pdf)
 
