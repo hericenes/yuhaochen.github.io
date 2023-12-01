@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "RIS-Assisted Communication Prototype @ 28 GHz"
 collection: teaching
 type: "Undergraduate course"
-permalink: /demos/2014-spring-teaching-1
+permalink: /demos/mmWave
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
