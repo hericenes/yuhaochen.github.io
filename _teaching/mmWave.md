@@ -24,6 +24,10 @@ The end-to-end system demonstrates several interesting results, including the un
 
 ![constellation](../images/constellation.png)
 
-## Algorithm verification
+## Algorithm verification & Field test
 
-We also utilize this prototype to verify the performance of the proposed [analytical beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/analytical) and the proposed [FDF-based beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/UCA).
+We utilize this prototype to verify the performance of the proposed [analytical beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/analytical) and the proposed [FDF-based beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/UCA).
+
+We also conduct field test based on the prototype. The results were reported at Global 6G Development Conference, 2022. 
+
+![result](../images/mmWave-result.png)
