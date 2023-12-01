@@ -1,5 +1,5 @@
 ---
-title: "Coded Beam Training for RIS-Assisted Communication Systems [Show More]"
+title: "Coded Beam Training for RIS-Assisted Communication Systems"
 collection: talks
 type: "Talk"
 permalink: /research/CBT-RIS

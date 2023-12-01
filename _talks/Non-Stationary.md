@@ -1,5 +1,5 @@
 ---
-title: "Spatial Non-Stationary Channel Estimation For ELAA [Show More]"
+title: "Spatial Non-Stationary Channel Estimation For ELAA"
 collection: talks
 type: "Talk"
 permalink: /research/Non-Stationary
