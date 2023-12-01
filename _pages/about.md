@@ -10,7 +10,7 @@ redirect_from:
 
 Department of Electronic Engineering, Tsinghua University
 
-![cover-1](../images/ELAA-system.jpg)
+![cover-1](../images/CBT-1.png)
 
 I received my B.E. degree in Electronic Engineering from Tsinghua University in 2021. I am currently pursuing the M.S. degree at THU EE at Broadband Wireless Communication and Signal Processing Laboratory advised by Prof. [Linglong Dai](http://oa.ee.tsinghua.edu.cn/dailinglong/index.html). My research revolves around the algorithm design and prototype development of reconfigurable intelligent surface (RIS) and extremely large-scale antenna array (ELAA).
 
