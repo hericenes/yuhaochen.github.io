@@ -12,13 +12,16 @@ location: "City, Country"
 
 <p></p>
 
-This is a description of a teaching experience. You can use markdown like any other post.
+![overview](../images/mmWave-prototype.png)
 
-Heading 1
-======
+## AI-based end-to-end architecture
 
-Heading 2
-======
+We break the traditional paradigm which divide the communication system into several modules. In order to realize a better performance, we train an end-to-end system off-line and deploy it on the FPGA.
 
-Heading 3
-======
+![end-to-end](../images/end-to-end.png)
+
+The end-to-end system demonstrates several interesting results, including the unconventional constellation diagrams. The constellation diagrams vary with different training targets (e.g., minimum BER, mininum SER, etc.). This phenomenon reveals the potential of enhancing the performance of communication systems with AI.
+
+## Algorithm verification
+
+We also utilize this prototype to verify the performance of the proposed [analytical beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/analytical) and the proposed [FDF-based beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/UCA).
