@@ -19,6 +19,6 @@ author_profile: true
 * The Tsinghua University Excellent Social Work Scholarship, 2019.
 * The Tsinghua University Excellent Art Scholarship, 2019.
 * First Prize of the National College Students Physics Competition, 2018.
-* The Tsinghua University SK Scholarship, 2018.
+* The Tsinghua University Excellent Comprehensive Scholarship - SK Scholarship, 2018.
 * The Tsinghua University Excellent Social Practice Scholarship, 2018.
 * The Tsinghua University Excellent Social Work Scholarship, 2018.
