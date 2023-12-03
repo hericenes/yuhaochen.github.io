@@ -17,7 +17,7 @@ author_profile: true
 
 ## Book Chapter
 
-1. Z. Zhang, **Y. Chen**, Q, Yu, and L. Dai, “IRS Architecture and Hardware Design,” in *Intelligent Surfaces Empowered 6G Wireless Network*, Chapter 2, John Wiley & Sons, 2023. [(Book)](https://www.wiley.com/en-ie/Intelligent+Surfaces+Empowered+6G+Wireless+Network-p-9781119913092)
+1. Z. Zhang, **Y. Chen**, Q, Yu, and L. Dai, “IRS Architecture and Hardware Design,” in *Intelligent Surfaces Empowered 6G Wireless Network*, Chapter 2, Wiley-IEEE Press, 2023. [(Book)](https://www.wiley.com/en-ie/Intelligent+Surfaces+Empowered+6G+Wireless+Network-p-9781119913092)
 
 ## Journal
 
