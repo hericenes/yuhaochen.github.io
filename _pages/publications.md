@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## Book Chapter
+
+1. Z. Zhang, **Y. Chen**, Q, Yu, and L. Dai, “IRS Architecture and Hardware Design,” in *Intelligent Surfaces Empowered 6G Wireless Network*, Chapter 2, John Wiley & Sons, 2023. [(Book)](https://www.wiley.com/en-ie/Intelligent+Surfaces+Empowered+6G+Wireless+Network-p-9781119913092)
+
 ## Journal
 
 1. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale MIMO,” *IEEE Trans. Wireless Commun.*, 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/TWC.pdf)
