@@ -13,10 +13,10 @@ location: "City, Country"
 
 To overcome the “multiplicative fading” effect in RIS systems, we deploy a 64-element active RIS in the prototype to reflect and enhance the incident signals.
 
-![overview](../images/active-proto.png)
+![overview](https://hericenes.github.io/yuhaochen.github.io/images/active-proto.png)
 
 ## Field test
 
 We conduct field test based on the prototype and verify the performance of the active RIS.
 
-![test](../images/test-scenario.png)
+![test](https://hericenes.github.io/yuhaochen.github.io/images/test-scenario.png)
