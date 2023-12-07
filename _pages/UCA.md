@@ -2,7 +2,7 @@
 title: "Fast Beam Training for Wideband ELAA Systems with Uniform Circular Array"
 collection: talks
 type: "Talk"
-permalink: /research/UCA
+permalink: /research/ELAA/UCA
 venue: "UC-Berkeley Institute for Testing Science"
 date: 2018-03-01
 location: "Berkeley CA, USA"

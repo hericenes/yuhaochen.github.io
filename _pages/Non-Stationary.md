@@ -2,7 +2,7 @@
 title: "Spatial Non-Stationary Channel Estimation For ELAA"
 collection: talks
 type: "Talk"
-permalink: /research/Non-Stationary
+permalink: /research/ELAA/Non-Stationary
 venue: "Testing Institute of America 2014 Annual Conference"
 date: 2016-03-01
 location: "Los Angeles, CA"
