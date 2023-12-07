@@ -22,4 +22,8 @@ To tackle this challenge, leverging the error-correcting capability of channel c
 
 Then, we design the coded beam training framework based on 4-ary codes, during which the beam encoding and decoding processes are refined respectively to better accommodate to the beam training problem. Simulation results have demonstrated that, the proposed coded beam training method can enable reliable beam training performance for remote users with low SNR with a low beam training overhead.
 
+-----
 
+### [Next: Accurate & Effective Channel Estimation for Extremely Large-Scale RIS](https://hericenes.github.io/yuhaochen.github.io/research/RIS/Accurate)
+
+## [<<BACK](https://hericenes.github.io/yuhaochen.github.io/research/RIS)
