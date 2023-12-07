@@ -5,6 +5,8 @@ permalink: /personal/
 author_profile: true
 ---
 
+I am fortunate to spend my master's years in Broadband Wireless Communication and Signal Processing Laboratory led by Prof. [Linglong Dai](http://oa.ee.tsinghua.edu.cn/dailinglong/index.html), where I can work with many highly-motivated and innovative peers, including my friend [Kunzan Liu](https://kunzanliu.github.io).
+
 I'm an amateur cuber. Visit my [World Cube Association (WCA) Homepage](https://www.worldcubeassociation.org/persons/2018CHEN64).
 
 ![cube](https://hericenes.github.io/yuhaochen.github.io/images/cube.png)
