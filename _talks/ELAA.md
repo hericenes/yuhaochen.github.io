@@ -1,5 +1,5 @@
 ---
-title: "CSI acquisition for ELAA"
+title: "Advanced CSI acquisition algorithm design for ELAA"
 collection: talks
 type: "Talk"
 permalink: /research/ELAA
@@ -18,7 +18,10 @@ location: "London, UK"
 
 <font size = 4><b>Propose a group time block code (GTBC) based signal extraction scheme. Convert the spatial non-stationary channel into a series of stationary channels to realize accurate channel estimation.</b></font>
 
+![nonst](https://hericenes.github.io/yuhaochen.github.io/images/nonst-elaa.png)
+
 ## [Fast Beam Training for Wideband ELAA Systems with Uniform Circular Array](https://hericenes.github.io/yuhaochen.github.io/research/ELAA/UCA)
 
 <font size = 4><b>Analyze the frequency-dependent focusing property in wideband uniform circular array (UCA) systems. Propose an effective beam training framework to estimate the angle and distance simultaneously.</b></font>
 
+![FDF](https://hericenes.github.io/yuhaochen.github.io/images/UCA-2.png)
