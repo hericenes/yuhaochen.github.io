@@ -8,7 +8,7 @@ date: 2015-04-01
 location: "San Francisco, California"
 ---
 
-<font size = 4><b>      Analyze the specific power distribution pattern of the wideband effect in RIS-assisted wideband THz systems. Design a beam training framework by exploiting this effect rather than overcoming it.</b></font>
+<font size = 4><b>        Analyze the specific power distribution pattern of the wideband effect in RIS-assisted wideband THz systems. Design a beam training framework by exploiting this effect rather than overcoming it.</b></font>
 
 <p></p>
 
