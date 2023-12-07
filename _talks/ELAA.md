@@ -1,5 +1,5 @@
 ---
-title: "Advanced CSI acquisition algorithm design for ELAA"
+title: "Advanced CSI Acquisition Algorithm Design for ELAA"
 collection: talks
 type: "Talk"
 permalink: /research/ELAA

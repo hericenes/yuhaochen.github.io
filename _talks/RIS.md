@@ -1,5 +1,5 @@
 ---
-title: "RIS-assisted wireless communications"
+title: "Algorithm Design for Future RIS-Assisted Wireless Communications"
 collection: talks
 type: "Talk"
 permalink: /research/RIS
