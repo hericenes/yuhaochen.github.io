@@ -26,7 +26,7 @@ The end-to-end system demonstrates several interesting results, including the un
 
 ## Algorithm verification & Field test
 
-We utilize this prototype to verify the performance of the proposed [analytical beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/analytical) and the proposed [FDF-based beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/UCA). In addition, we verify the performance of the proposed [dynamic codebook](https://hericenes.github.io/yuhaochen.github.io/research/Accurate).
+We utilize this prototype to verify the performance of the proposed [analytical beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/RIS/analytical) and the proposed [FDF-based beam training framework](https://hericenes.github.io/yuhaochen.github.io/research/ELAA/UCA). In addition, we verify the performance of the proposed [dynamic codebook](https://hericenes.github.io/yuhaochen.github.io/research/RIS/Accurate).
 
 ![codebook result](https://hericenes.github.io/yuhaochen.github.io/images/codebook-test.png)
 
