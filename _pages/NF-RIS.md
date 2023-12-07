@@ -2,7 +2,7 @@
 title: "Accurate & Effective Channel Estimation for Extremely Large-Scale RIS"
 collection: talks
 type: "Talk"
-permalink: /research/Accurate
+permalink: /research/RIS/Accurate
 venue: "London School of Testing"
 date: 2017-02-01
 location: "London, UK"

@@ -2,7 +2,7 @@
 title: "Coded Beam Training for RIS-Assisted Communication Systems"
 collection: talks
 type: "Talk"
-permalink: /research/CBT-RIS
+permalink: /research/RIS/CBT-RIS
 venue: "UC-Berkeley Institute for Testing Science"
 date: 2019-03-01
 location: "Berkeley CA, USA"
