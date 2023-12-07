@@ -2,7 +2,7 @@
 title: "Analytical Beam Training Framework for RIS-Assisted Wideband THz Systems"
 collection: talks
 type: "Talk"
-permalink: /research/analytical
+permalink: /research/RIS/analytical
 venue: "UC San Francisco, Department of Testing"
 date: 2015-04-01
 location: "San Francisco, California"
