@@ -28,3 +28,8 @@ Based on the decoupled signals, a GTBC-based dynamic orthogonal matching pursuit
 
 ----
 
+### [Previous: Coded Beam Training for RIS-Assisted Communication Systems](https://hericenes.github.io/yuhaochen.github.io/research/RIS/CBT-RIS)
+
+### [Next: Analytical Beam Training Framework for RIS-Assisted Wideband THz Systems](https://hericenes.github.io/yuhaochen.github.io/research/RIS/analytical)
+
+## [<<BACK](https://hericenes.github.io/yuhaochen.github.io/research/RIS)

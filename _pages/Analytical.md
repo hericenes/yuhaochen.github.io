@@ -29,3 +29,7 @@ Specifically, we first analyze the power distribution pattern (PDP) in RIS-assis
 2. **Y. Chen**, J. Tan, and L. Dai, “Analytical beam training for RIS-assisted wideband terahertz communication,” in *Proc. 2023 IEEE Global Commun. Conf.* (<b><i>IEEE GLOBECOM’23</i></b>), Kuala Lumpur, Malaysia, Dec. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/m16585-chen%20final.pdf)
 
 ----
+
+### [Previous: Accurate & Effective Channel Estimation for Extremely Large-Scale RIS](https://hericenes.github.io/yuhaochen.github.io/research/RIS/Accurate)
+
+## [<<BACK](https://hericenes.github.io/yuhaochen.github.io/research/RIS)
