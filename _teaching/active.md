@@ -20,3 +20,9 @@ To overcome the “multiplicative fading” effect in RIS systems, we deploy a 6
 We conduct field test based on the prototype and verify the performance of the active RIS.
 
 ![test](https://hericenes.github.io/yuhaochen.github.io/images/test-scenario.png)
+
+----
+
+1. Z. Zhang, **Y. Chen**, Z. Peng, and L. Dai, “Active reconfigurable intelligent surface aided wireless communication prototype,” in *Proc. 2022 IEEE Global Commun. Conf.* (<b><i>IEEE GLOBECOM’22, Demo Session</i></b>), Rio de Janeiro, Brazil, Dec. 2022. [(Slides)](https://hericenes.github.io/yuhaochen.github.io/files/ActiveDemo.pdf)
+
+2. Z. Zhang, **Y. Chen**, Q, Yu, and L. Dai, “IRS Architecture and Hardware Design,” in *Intelligent Surfaces Empowered 6G Wireless Network*, Chapter 2, Wiley-IEEE Press, 2023. [(Book)](https://www.wiley.com/en-ie/Intelligent+Surfaces+Empowered+6G+Wireless+Network-p-9781119913092)

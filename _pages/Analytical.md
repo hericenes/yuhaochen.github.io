@@ -21,3 +21,11 @@ However, existing beam training frameworks have not taken the wideband beam spli
 ![PDP](https://hericenes.github.io/yuhaochen.github.io/images/Analytical-2.png)
 
 Specifically, we first analyze the power distribution pattern (PDP) in RIS-assisted wideband THz systems and propose a PDP based direction estimation scheme, where the exact value of the received power can be utilized to analytically calculate the direction. Then, we design the analytical codebook for the proposed framework based on the inherent parameters of the wideband THz system. The proposed framework can achieve the near-optimal achievable rate performance with a lower beam training overhead.
+
+----
+
+1. **Y. Chen**, J. Tan, M. Hao, R. MacKenzie, and L. Dai “Accurate beam training for RIS-assisted wideband terahertz communication,” *IEEE Trans. Commun.*, 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/TCOM.pdf)
+
+2. **Y. Chen**, J. Tan, and L. Dai, “Analytical beam training for RIS-assisted wideband terahertz communication,” in *Proc. 2023 IEEE Global Commun. Conf.* (<b><i>IEEE GLOBECOM’23</i></b>), Kuala Lumpur, Malaysia, Dec. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/m16585-chen%20final.pdf)
+
+----

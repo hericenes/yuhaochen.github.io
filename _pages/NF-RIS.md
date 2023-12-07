@@ -22,3 +22,9 @@ To address these problems, we study the channel estimation for XL-RIS assisted c
 
 Based on the decoupled signals, a GTBC-based dynamic orthogonal matching pursuit (GD-OMP) algorithm is proposed to update the dictionary matrix and estimate each path iteratively based on the geometric constraints among RIS sub-arrays. Simulation results verify that the proposed algorithm can capture the spatial non-stationary effect and achieve improved estimation accuracy compared to existing schemes.
 
+----
+
+1. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale RIS-assisted wireless communications,” submitted to *IEEE Trans. Commun.* (<font color=red><b>Under Review</b></font>)
+
+----
+

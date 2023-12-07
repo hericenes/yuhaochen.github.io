@@ -25,3 +25,9 @@ Then, by exploiting the FDF property to search different distances by different 
 ![codebook](https://hericenes.github.io/yuhaochen.github.io/images/UCA-3.png)
 
 Moreover, we compare the necessary beam training overhead of the proposed scheme with those of existing schemes to reveal the effectiveness of the proposed scheme. Simulation results illustrate that the proposed scheme can realize an accurate beam training in near-field wideband UCA systems with a low beam training overhead.
+
+----
+
+1. **Y. Chen** and L. Dai, “Near-field wideband beam training for uniform circular array,” submitted to *Sci. China Inf. Sci.* (<font color=red><b>Major Revision</b></font>)
+
+----
