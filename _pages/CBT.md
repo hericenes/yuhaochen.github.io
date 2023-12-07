@@ -16,6 +16,10 @@ In RIS-assisted communication systems for future sixth-generation (6G) communica
 
 ![fading](https://hericenes.github.io/yuhaochen.github.io/images/CBT-1.png)
 
-To tackle this challenge, leverging the error-correcting capability of channel codes, we introduce channel coding theory into hierarchical beam training to extend the coverage area. Specifically, we establish the duality between hierarchical beam training and channel coding. According to the cascaded channel of RIS systems, the hierarchical beam training in RIS systems can be abstracted as a series of 4-ary code. Then, we design the coded beam training framework based on 4-ary codes, during which the beam encoding and decoding processes are refined respectively to better accommodate to the beam training problem. Simulation results have demonstrated that, the proposed coded beam training method can enable reliable beam training performance for remote users with low SNR with a low beam training overhead.
+To tackle this challenge, leverging the error-correcting capability of channel codes, we introduce channel coding theory into hierarchical beam training to extend the coverage area. Specifically, we establish the duality between hierarchical beam training and channel coding. According to the cascaded channel of RIS systems, the hierarchical beam training in RIS systems can be abstracted as a series of 4-ary code. 
+
+![framework](https://hericenes.github.io/yuhaochen.github.io/images/CBT-2.png)
+
+Then, we design the coded beam training framework based on 4-ary codes, during which the beam encoding and decoding processes are refined respectively to better accommodate to the beam training problem. Simulation results have demonstrated that, the proposed coded beam training method can enable reliable beam training performance for remote users with low SNR with a low beam training overhead.
 
 

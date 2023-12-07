@@ -18,7 +18,7 @@ location: "London, UK"
 
 <font size = 4><b>Propose a beam training framework in RIS systems based on the idea of channel coding to enhance the beam training accuracy. Apply the 4-ary code in the design of the framework.</b></font>
 
-
+![framework](https://hericenes.github.io/yuhaochen.github.io/images/CBT-2.png)
 
 ## [Accurate & Effective Channel Estimation for Extremely Large-Scale RIS](https://hericenes.github.io/yuhaochen.github.io/research/RIS/Accurate)
 
