@@ -23,3 +23,9 @@ To fill in this gap, we study the spatial non-stationary channel estimation in E
 1. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale MIMO,” *IEEE Trans. Wireless Commun.*, 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/TWC.pdf)
 
 2. **Y. Chen**, Z. Zhang, M. Cui, and L. Dai, “Channel estimation for non-stationary extremely large-scale MIMO,” in *Proc. IEEE 95th Veh. Technol. Conf.* (<b><i>IEEE VTC’23 Spring</i></b>), Florence, Italy, Jun. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/VTC.pdf)
+
+----
+
+### [Next: Fast Beam Training for Wideband ELAA Systems with Uniform Circular Array](https://hericenes.github.io/yuhaochen.github.io/research/ELAA/UCA)
+
+## [<<BACK](https://hericenes.github.io/yuhaochen.github.io/research/ELAA)

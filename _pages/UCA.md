@@ -31,3 +31,7 @@ Moreover, we compare the necessary beam training overhead of the proposed scheme
 1. **Y. Chen** and L. Dai, “Near-field wideband beam training for uniform circular array,” submitted to *Sci. China Inf. Sci.* (<font color=red><b>Major Revision</b></font>)
 
 ----
+
+### [Previous: Spatial Non-Stationary Channel Estimation For ELAA](https://hericenes.github.io/yuhaochen.github.io/research/ELAA/Non-Stationary)
+
+## [<<BACK](https://hericenes.github.io/yuhaochen.github.io/research/ELAA)
