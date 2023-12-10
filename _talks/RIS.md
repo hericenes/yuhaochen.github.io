@@ -22,7 +22,7 @@ location: "London, UK"
 
 ## [Accurate & Effective Channel Estimation for Extremely Large-Scale RIS](https://hericenes.github.io/yuhaochen.github.io/research/RIS/Accurate)
 
-<font size = 4><b>Extend the GTBC to the RIS scenario to deal with the spatial non-stationarity. Design a dynamic codebook to represent the cascaded near-field channel in RIS systems effectively.</b></font>
+<font size = 4><b>Propose a group time block code (GTBC) based RIS decoupling scheme to deal with the spatial non-stationarity in RIS systems. Design a dynamic codebook to represent the cascaded near-field channel in RIS systems effectively.</b></font>
 
 ![Geo](https://hericenes.github.io/yuhaochen.github.io/images/NF-RIS-2.png)
 
