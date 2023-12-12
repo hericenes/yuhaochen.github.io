@@ -1,5 +1,5 @@
 ---
-title: "Advanced CSI Acquisition Algorithm Design for ELAA"
+title: "Advanced CSI Acquisition Algorithm Design for ELAA in 6G Communications"
 collection: talks
 type: "Talk"
 permalink: /research/ELAA
