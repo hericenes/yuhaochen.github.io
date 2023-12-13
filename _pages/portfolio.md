@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* The National Scholarship, 2023. (<font color=red>Top 4 among 240 candidates at Dept. EE</font>)
+* The National Scholarship, 2023. (<font color=red>Top 2 among 82 candidates at Dept. EE</font>)
 * The National First Prize of the 17th China Graduate Electronic Design Competition, 2022. (<font color=red>Top 1.7% among 5824 teams</font>)
 * IEEE ICC 2022 Outstanding Demo Award, 2022.
 * Gold of the 49th International Exhibition of Inventions of Geneva, 2022.
