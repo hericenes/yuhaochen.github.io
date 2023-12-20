@@ -23,7 +23,7 @@ author_profile: true
 
 1. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale MIMO,” *IEEE Trans. Wireless Commun.*, 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/TWC.pdf)
 
-2. **Y. Chen**, J. Tan, M. Hao, R. MacKenzie, and L. Dai “Accurate beam training for RIS-assisted wideband terahertz communication,” *IEEE Trans. Commun.*, 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/TCOM.pdf)
+2. **Y. Chen**, J. Tan, M. Hao, R. MacKenzie, and L. Dai “Accurate beam training for RIS-assisted wideband terahertz communication,” *IEEE Trans. Commun.*, vol. 71, no. 12, pp. 7425-7440, Dec. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Accurate_Beam_Training_for_RIS-Assisted_Wideband_Terahertz_Communication.pdf)
 
 3. **Y. Chen** and L. Dai, “Near-field wideband beam training for uniform circular array,” submitted to *Sci. China Inf. Sci.* (Major Revision)
 
