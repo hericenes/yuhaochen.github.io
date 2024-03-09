@@ -25,11 +25,11 @@ author_profile: true
 
 2. **Y. Chen**, J. Tan, M. Hao, R. MacKenzie, and L. Dai “Accurate beam training for RIS-assisted wideband terahertz communication,” *IEEE Trans. Commun.*, vol. 71, no. 12, pp. 7425-7440, Dec. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Accurate_Beam_Training_for_RIS-Assisted_Wideband_Terahertz_Communication.pdf) 
 
-3. **Y. Chen** and L. Dai, “Near-field wideband beam training for uniform circular array,” *Sci. China Inf. Sci.*, 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/UCA_BT.pdf)
+3. **Y. Chen** and L. Dai, “Near-field wideband beam training for uniform circular array,” *Sci. China Inf. Sci.*, 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/UCA_BT.pdf)
 
 4. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale RIS-assisted wireless communications,” submitted to *IEEE Trans. Signal Process.* (Under Review)
 
-5. M. Cui, H. Jiang, **Y. Chen**, and L. Dai, “Continuous-time channel prediction based on tensor neural ordinary differential equation,” *China Commun.*, 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Neural%20ODE.pdf) 
+5. M. Cui, H. Jiang, **Y. Chen**, and L. Dai, “Continuous-time channel prediction based on tensor neural ordinary differential equation,” *China Commun.*, vol. 21, no. 1, pp. 163-174, 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Neural%20ODE.pdf) 
 
 ## Conference
 
