@@ -29,7 +29,7 @@ author_profile: true
 
 4. **Y. Chen** and L. Dai, “Channel estimation for RIS assisted wireless communications: Stationary or non-stationary?,” submitted to *IEEE Trans. Signal Process.* (Under Review)
 
-5. M. Cui, H. Jiang, **Y. Chen**, and L. Dai, “Continuous-time channel prediction based on tensor neural ordinary differential equation,” *China Commun.*, 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Neural%20ODE.pdf) 
+5. M. Cui, H. Jiang, **Y. Chen**, and L. Dai, “Continuous-time channel prediction based on tensor neural ordinary differential equation,” *China Commun.*, vol. 21, no. 1, pp. 163-174, 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Neural%20ODE.pdf) 
 
 ## Conference
 
