@@ -27,7 +27,7 @@ author_profile: true
 
 3. **Y. Chen** and L. Dai, “Near-field wideband beam training for ELAA with uniform circular array,” *Sci. China Inf. Sci.*, 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/UCA_BT.pdf)
 
-4. **Y. Chen** and L. Dai, “Channel estimation for RIS assisted wireless communications: Stationary or non-stationary?,” submitted to *IEEE Trans. Signal Process.* (Under Review)
+4. **Y. Chen** and L. Dai, “Channel estimation for RIS assisted wireless communications: Stationary or non-stationary?,” submitted to *IEEE Trans. Signal Process.* (Major Revision)
 
 5. M. Cui, H. Jiang, **Y. Chen**, and L. Dai, “Continuous-time channel prediction based on tensor neural ordinary differential equation,” *China Commun.*, vol. 21, no. 1, pp. 163-174, 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Neural%20ODE.pdf) 
 
