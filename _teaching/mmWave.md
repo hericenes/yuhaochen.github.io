@@ -36,6 +36,6 @@ We also conduct field test based on the prototype. The results were reported at 
 
 ----
 
-1. M. Cui, Z. Wu, **Y. Chen**, S. Xu, F. Yang, and L. Dai, “Demo: Low-power communications based on RIS and AI for 6G,” in *Proc. IEEE Int. Conf. Commun.* (<b><i>IEEE ICC’22, Demo Session</i></b>), Gangnam-gu, Seoul, South Korea, May 2022. (<font color=red><b>IEEE ICC 2022 Outstanding Demo Award</b></font>) [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Demo%20Low-power%20communications%20based%20on%20RIS%20and%20AI%20for%206G.pdf)
+1. M. Cui, Z. Wu, **Y. Chen**, S. Xu, F. Yang, and L. Dai, “Demo: Low-power communications based on RIS and AI for 6G,” in *Proceedings of 2022 IEEE International Conference on Communications Workshops* (<b><i>IEEE ICC’22, Demo Session</i></b>), Gangnam-gu, Seoul, South Korea, May 2022. (<font color=red><b>IEEE ICC 2022 Outstanding Demo Award</b></font>) [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Demo_Low-power_Communications_Based_on_RIS_and_AI_for_6G.pdf)
 
 2. Z. Zhang, **Y. Chen**, Q, Yu, and L. Dai, “IRS Architecture and Hardware Design,” in *Intelligent Surfaces Empowered 6G Wireless Network*, Chapter 2, Wiley-IEEE Press, 2023. [(Book)](https://www.wiley.com/en-ie/Intelligent+Surfaces+Empowered+6G+Wireless+Network-p-9781119913092)

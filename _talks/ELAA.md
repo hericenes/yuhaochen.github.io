@@ -20,6 +20,8 @@ location: "London, UK"
 
 ![nonst](https://hericenes.github.io/yuhaochen.github.io/images/nonst-elaa.png)
 
+-----
+
 ## [Fast Beam Training for Wideband ELAA Systems with Uniform Circular Array](https://hericenes.github.io/yuhaochen.github.io/research/ELAA/UCA)
 
 <font size = 4><b>Analyze the frequency-dependent focusing property in wideband uniform circular array (UCA) systems. Propose an effective beam training framework to estimate the angle and distance simultaneously.</b></font>

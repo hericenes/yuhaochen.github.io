@@ -24,9 +24,9 @@ Specifically, we first analyze the power distribution pattern (PDP) in RIS-assis
 
 ----
 
-1. **Y. Chen**, J. Tan, M. Hao, R. MacKenzie, and L. Dai “Accurate beam training for RIS-assisted wideband terahertz communication,” *IEEE Trans. Commun.*, 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/TCOM.pdf)
+1. **Y. Chen**, J. Tan, M. Hao, R. MacKenzie, and L. Dai “Accurate beam training for RIS-assisted wideband terahertz communication,” *IEEE Transactions on Communications*, vol. 71, no. 12, pp. 7425-7440, Dec. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Accurate_Beam_Training_for_RIS-Assisted_Wideband_Terahertz_Communication.pdf) 
 
-2. **Y. Chen**, J. Tan, and L. Dai, “Analytical beam training for RIS-assisted wideband terahertz communication,” in *Proc. 2023 IEEE Global Commun. Conf.* (<b><i>IEEE GLOBECOM’23</i></b>), Kuala Lumpur, Malaysia, Dec. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/m16585-chen%20final.pdf)
+2. **Y. Chen**, J. Tan, and L. Dai, “Analytical beam training for RIS-assisted wideband terahertz communication,” in *Proceedings of 2023 IEEE Global Communications Conference* (<b><i>IEEE GLOBECOM’23</i></b>), Kuala Lumpur, Malaysia, Dec. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Analytical_Beam_Training_for_RIS-Assisted_Wideband_Terahertz_Communication.pdf)
 
 ----
 

@@ -28,7 +28,7 @@ Moreover, we compare the necessary beam training overhead of the proposed scheme
 
 ----
 
-1. **Y. Chen** and L. Dai, “Near-field wideband beam training for uniform circular array,” submitted to *Sci. China Inf. Sci.* (<font color=red><b>Major Revision</b></font>)
+1. **Y. Chen** and L. Dai, “Near-field wideband beam training for ELAA with uniform circular array,” *Science China Information Sciences*, vol. 67, no. 6, pp. 162303, Jun. 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Near-field_wideband_beam_training_for_ELAA_with_uniform_circular_array.pdf)
 
 ----
 
