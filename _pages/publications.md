@@ -41,7 +41,7 @@ author_profile: true
 
 ## Others
 
-1. Z. Zhang, **Y. Chen**, Z. Peng, and L. Dai, “Active reconfigurable intelligent surface aided wireless communication prototype,” in *Proceedings of 2022 IEEE Global Communications Conference* (<b><i>IEEE GLOBECOM’22, Demo Session</i></b>), Rio de Janeiro, Brazil, Dec. 2022. [(Slides)](https://hericenes.github.io/yuhaochen.github.io/files/ActiveDemo.pdf)
+1. Z. Zhang, **Y. Chen**, Z. Peng, and L. Dai, “Active reconfigurable intelligent surface aided wireless communication prototype,” in *Proceedings of 2022 IEEE Global Communications Conference* (<b><i>IEEE GLOBECOM’22, Demo Session</i></b>), Rio de Janeiro, Brazil, Dec. 2022. [(Slides)](https://hericenes.github.io/yuhaochen.github.io/files/Active_reconfigurable_intelligent_surface_aided_wireless_communication_prototype.pdf)
 
 ## Patent
 
