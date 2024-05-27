@@ -1,5 +1,5 @@
 ---
-title: "Algorithm Design for Future 6G RIS-Assisted Wireless Communications"
+title: "Algorithm Design for Future 6G RIS-Assisted Wireless Communications @ Tsinghua"
 collection: talks
 type: "Talk"
 permalink: /research/RIS

@@ -1,5 +1,5 @@
 ---
-title: "RIS-Assisted Communication Prototype @ 28 GHz"
+title: "RIS-Assisted Communication Prototype (28 GHz) @ Tsinghua"
 collection: teaching
 type: "Undergraduate course"
 permalink: /demos/mmWave

@@ -1,5 +1,5 @@
 ---
-title: "Active RIS-Assisted Communication Prototype @ 3.5 GHz"
+title: "Active RIS-Assisted Communication Prototype (3.5 GHz) @ Tsinghua"
 collection: teaching
 type: "Workshop"
 permalink: /demos/active
