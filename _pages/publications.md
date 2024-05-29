@@ -25,7 +25,7 @@ author_profile: true
 
 1. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale MIMO,” *IEEE Transactions on Wireless Communications*, 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Non-Stationary_Channel_Estimation_for_Extremely_Large-Scale_MIMO.pdf)
 
-1. **Y. Chen** and L. Dai, “Near-field wideband beam training for ELAA with uniform circular array,” *Science China Information Sciences*, vol. 67, no. 6, pp. 162303, Jun. 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Near-field_wideband_beam_training_for_ELAA_with_uniform_circular_array.pdf)
+1. **Y. Chen** and L. Dai, “Near-field wideband beam training for ELAA with uniform circular array,” *Science China Information Sciences*, vol. 67, no. 6, pp. 162303, May 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Near-field_wideband_beam_training_for_ELAA_with_uniform_circular_array.pdf)
 
 1. M. Cui, H. Jiang, **Y. Chen**, and L. Dai, “Continuous-time channel prediction based on tensor neural ordinary differential equation,” *China Communications*, vol. 21, no. 1, pp. 163-174, Jan. 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Continuous-time_channel_prediction_based_on_tensor_neural_ordinary_differential_equation.pdf) 
 
