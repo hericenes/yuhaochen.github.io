@@ -21,7 +21,9 @@ author_profile: true
 
 ## Journal
 
-1. **Y. Chen** and L. Dai, “Channel estimation for RIS assisted wireless communications: Stationary or non-stationary?,” submitted to *IEEE Transactions on Signal Processing* (Major Revision)
+1. **Y. Chen** and L. Dai, “Coded beam training for RIS assisted wireless communications,” submitted to *IEEE Transactions on Wireless Communications*. [(arXiv)](https://hericenes.github.io/yuhaochen.github.io/files/Coded_beam_training_for_RIS_assisted_wireless_communications.pdf)
+
+1. **Y. Chen** and L. Dai, “Channel estimation for RIS assisted wireless communications: Stationary or non-stationary?,” submitted to *IEEE Transactions on Signal Processing*. (Major Revision)
 
 1. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale MIMO,” *IEEE Transactions on Wireless Communications*, 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Non-Stationary_Channel_Estimation_for_Extremely_Large-Scale_MIMO.pdf)
 
