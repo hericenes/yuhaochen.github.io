@@ -20,7 +20,7 @@ To fill in this gap, we study the spatial non-stationary channel estimation in E
 
 ----
 
-1. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale MIMO,” *IEEE Transactions on Wireless Communications*, 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Non-Stationary_Channel_Estimation_for_Extremely_Large-Scale_MIMO.pdf)
+1. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale MIMO,” *IEEE Transactions on Wireless Communications*, vol. 23, no. 7, pp. 7683-7697, Jul. 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Non-Stationary_Channel_Estimation_for_Extremely_Large-Scale_MIMO.pdf)
 
 2. **Y. Chen**, Z. Zhang, M. Cui, and L. Dai, “Channel estimation for non-stationary extremely large-scale MIMO,” in *Proceedings of 2023 IEEE 97th Vehicular Technology Conference* (<b><i>IEEE VTC’23 Spring</i></b>), Florence, Italy, Jun. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Channel_Estimation_for_Non-Stationary_Extremely_Large-Scale_MIMO.pdf)
 
