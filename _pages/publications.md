@@ -23,15 +23,15 @@ author_profile: true
 
 1. **Y. Chen** and L. Dai, “Coded beam training for RIS assisted wireless communications,” submitted to *IEEE Transactions on Wireless Communications*. [(arXiv)](https://hericenes.github.io/yuhaochen.github.io/files/Coded_beam_training_for_RIS_assisted_wireless_communications.pdf)
 
-1. **Y. Chen** and L. Dai, “Channel estimation for RIS assisted wireless communications: Stationary or non-stationary?,” submitted to *IEEE Transactions on Signal Processing*. (Major Revision)
+2. **Y. Chen**, M. Jian, and L. Dai, “Channel estimation for RIS assisted wireless communications: Stationary or non-stationary?,” *IEEE Transactions on Signal Processing*, 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Channel_Estimation_for_RIS_Assisted_Wireless_Communications_Stationary_or_Non-Stationary.pdf)
 
-1. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale MIMO,” *IEEE Transactions on Wireless Communications*, vol. 23, no. 7, pp. 7683-7697, Jul. 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Non-Stationary_Channel_Estimation_for_Extremely_Large-Scale_MIMO.pdf)
+3. **Y. Chen** and L. Dai, “Non-stationary channel estimation for extremely large-scale MIMO,” *IEEE Transactions on Wireless Communications*, vol. 23, no. 7, pp. 7683-7697, Jul. 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Non-Stationary_Channel_Estimation_for_Extremely_Large-Scale_MIMO.pdf)
 
-1. **Y. Chen** and L. Dai, “Near-field wideband beam training for ELAA with uniform circular array,” *Science China Information Sciences*, vol. 67, no. 6, pp. 162303, May 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Near-field_wideband_beam_training_for_ELAA_with_uniform_circular_array.pdf)
+4. **Y. Chen** and L. Dai, “Near-field wideband beam training for ELAA with uniform circular array,” *Science China Information Sciences*, vol. 67, no. 6, pp. 162303, May 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Near-field_wideband_beam_training_for_ELAA_with_uniform_circular_array.pdf)
 
-1. M. Cui, H. Jiang, **Y. Chen**, and L. Dai, “Continuous-time channel prediction based on tensor neural ordinary differential equation,” *China Communications*, vol. 21, no. 1, pp. 163-174, Jan. 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Continuous-time_channel_prediction_based_on_tensor_neural_ordinary_differential_equation.pdf) 
+5. M. Cui, H. Jiang, **Y. Chen**, and L. Dai, “Continuous-time channel prediction based on tensor neural ordinary differential equation,” *China Communications*, vol. 21, no. 1, pp. 163-174, Jan. 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Continuous-time_channel_prediction_based_on_tensor_neural_ordinary_differential_equation.pdf) 
 
-1. **Y. Chen**, J. Tan, M. Hao, R. MacKenzie, and L. Dai “Accurate beam training for RIS-assisted wideband terahertz communication,” *IEEE Transactions on Communications*, vol. 71, no. 12, pp. 7425-7440, Dec. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Accurate_Beam_Training_for_RIS-Assisted_Wideband_Terahertz_Communication.pdf) 
+6. **Y. Chen**, J. Tan, M. Hao, R. MacKenzie, and L. Dai “Accurate beam training for RIS-assisted wideband terahertz communication,” *IEEE Transactions on Communications*, vol. 71, no. 12, pp. 7425-7440, Dec. 2023. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Accurate_Beam_Training_for_RIS-Assisted_Wideband_Terahertz_Communication.pdf) 
 
 ## Conference
 

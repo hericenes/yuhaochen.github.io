@@ -16,7 +16,7 @@ location: "London, UK"
 
 ## [Coded Beam Training for RIS-Assisted Communication Systems](https://hericenes.github.io/yuhaochen.github.io/research/RIS/CBT-RIS)
 
-<font size = 4><b>Propose a beam training framework in RIS systems based on the idea of channel coding to enhance the beam training accuracy. Apply the 4-ary code in the design of the framework.</b></font>
+<font size = 4><b>Design a beam training framework in RIS systems based on the idea of channel coding to enhance the beam training accuracy. Propose a novel codeword design scheme and an encoder design scheme based on the hardware constraints of RIS.</b></font>
 
 ![framework](https://hericenes.github.io/yuhaochen.github.io/images/CBT-2.png)
 

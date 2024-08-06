@@ -24,7 +24,7 @@ Based on the decoupled signals, a GTBC-based dynamic orthogonal matching pursuit
 
 ----
 
-1. **Y. Chen** and L. Dai, “Channel estimation for RIS assisted wireless communications: Stationary or non-stationary?,” submitted to *IEEE Transactions on Signal Processing* (Major Revision)
+1. **Y. Chen**, M. Jian, and L. Dai, “Channel estimation for RIS assisted wireless communications: Stationary or non-stationary?,” *IEEE Transactions on Signal Processing*, 2024. [(Paper)](https://hericenes.github.io/yuhaochen.github.io/files/Channel_Estimation_for_RIS_Assisted_Wireless_Communications_Stationary_or_Non-Stationary.pdf)
 
 ----
 
